@@ -54,8 +54,12 @@ print(f"Received {data!r}")
 ```
 # OUTPUT:
 ## SERVER CODE:
-![image](https://github.com/Darkwebnew/Echoserver/assets/143114486/0f4120ff-5fc3-4de8-914e-40e6be0b96e1)
+
+![1](https://github.com/Darkwebnew/Echoserver/assets/143114486/860388c7-ab37-4424-a17c-fb4f121cc0a1)
+
 ## CLIENT CODE:
-![image](https://github.com/Darkwebnew/Echoserver/assets/143114486/cceba549-0717-4960-b2a7-a4f82d8234dc)
+
+![2](https://github.com/Darkwebnew/Echoserver/assets/143114486/c5c5619d-c1b9-4b41-a20a-a0bee4196267)
+
 # RESULT:
 The program is executed successfully
